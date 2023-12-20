@@ -1,0 +1,15 @@
+D:\Dev\Test C#\algo_avance\bin\Debug\net6.0\algo_avance.exe
+D:\Dev\Test C#\algo_avance\bin\Debug\net6.0\algo_avance.deps.json
+D:\Dev\Test C#\algo_avance\bin\Debug\net6.0\algo_avance.runtimeconfig.json
+D:\Dev\Test C#\algo_avance\bin\Debug\net6.0\algo_avance.dll
+D:\Dev\Test C#\algo_avance\bin\Debug\net6.0\algo_avance.pdb
+D:\Dev\Test C#\algo_avance\obj\Debug\net6.0\algo_avance.csproj.AssemblyReference.cache
+D:\Dev\Test C#\algo_avance\obj\Debug\net6.0\algo_avance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Test C#\algo_avance\obj\Debug\net6.0\algo_avance.AssemblyInfoInputs.cache
+D:\Dev\Test C#\algo_avance\obj\Debug\net6.0\algo_avance.AssemblyInfo.cs
+D:\Dev\Test C#\algo_avance\obj\Debug\net6.0\algo_avance.csproj.CoreCompileInputs.cache
+D:\Dev\Test C#\algo_avance\obj\Debug\net6.0\algo_avance.dll
+D:\Dev\Test C#\algo_avance\obj\Debug\net6.0\refint\algo_avance.dll
+D:\Dev\Test C#\algo_avance\obj\Debug\net6.0\algo_avance.pdb
+D:\Dev\Test C#\algo_avance\obj\Debug\net6.0\algo_avance.genruntimeconfig.cache
+D:\Dev\Test C#\algo_avance\obj\Debug\net6.0\ref\algo_avance.dll
